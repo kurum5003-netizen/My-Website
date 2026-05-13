@@ -1,0 +1,11 @@
+Hastane Otomasyonu - Final Paket
+
+1) Bu paket, kullanıcının gönderdiği mevcut veritabanı yapısına göre düzenlenmiştir.
+2) Yeni tablo oluşturmaz; mevcut tablo adları ve kolonları kullanılır:
+   Adminler, Hastalar, Doktorlar, Poliklinikler, Randevular, Muayene, Tanı, Reçeteler, Reçete İlaçları, İlaçlar.
+3) Dosyaları public_html içine atıp eski dosyaların üstüne yazdırın.
+4) Tarayıcıda CTRL + F5 yapın.
+
+Not:
+- Randevu, muayene, tanı ve reçete ekleme işlemlerinde mevcut tabloların id alanları için sistem yeni id değerini kendisi hesaplar.
+- Bu yüzden ayrıca database_guncelleme.sql çalıştırmanız gerekmez.
