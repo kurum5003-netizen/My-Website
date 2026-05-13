@@ -44,9 +44,4 @@ Bu proje, hastane süreçlerini dijital ortamda yönetmek amacıyla geliştirilm
 - `assets/` → CSS, JS ve görseller
 - `index.php` → Ana giriş sayfası
 
----
-
-
-
-```bash
-git clone https://github.com/kullaniciadi/proje-adi.git
+llaniciadi/proje-adi.git
