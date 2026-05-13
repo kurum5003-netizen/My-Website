@@ -1,4 +1,5 @@
-# My-Website
+# 🏥 Hastane Otomasyonu Web Sitesi
+
 
 Bu proje, hastane süreçlerini dijital ortamda yönetmek amacıyla geliştirilmiş bir web tabanlı hastane otomasyon sistemidir.
 
@@ -43,5 +44,3 @@ Bu proje, hastane süreçlerini dijital ortamda yönetmek amacıyla geliştirilm
 - `ortak/` → Veritabanı bağlantıları ve yardımcı dosyalar
 - `assets/` → CSS, JS ve görseller
 - `index.php` → Ana giriş sayfası
-
-llaniciadi/proje-adi.git
